@@ -1,4 +1,4 @@
-# Sensor Guard
+cr# Sensor Guard
 
 A real-time temperature monitoring application that enables users to monitor room temperatures through a visual interface, set temperature thresholds, receive alerts when thresholds are breached, and view historical temperature data.
 
@@ -264,5 +264,6 @@ Private project - All rights reserved
 ## Support
 
 For issues or questions, please contact the development team.
-#   S e n s o r G u a r d  
+#   S e n s o r G u a r d 
+ 
  
