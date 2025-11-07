@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "263113070815",
+    "firebase_url": "https://esp32tempmonitor-bd728-default-rtdb.firebaseio.com",
+    "project_id": "esp32tempmonitor-bd728",
+    "storage_bucket": "esp32tempmonitor-bd728.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263113070815:android:28f00d64f3af0ab84db16a",
+        "android_client_info": {
+          "package_name": "com.application.sensorguard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyb5T8cQMmNdDnmuR7FbILWR8Zvj14QDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263113070815:android:d0ecaf313b8e0f074db16a",
+        "android_client_info": {
+          "package_name": "com.example.sensorguard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyb5T8cQMmNdDnmuR7FbILWR8Zvj14QDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
